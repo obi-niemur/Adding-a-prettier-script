@@ -1,0 +1,15 @@
+{
+  "name": "eslintp",
+  "version": "1.0.0",
+  "description": "Udacity Practice",
+  "main": "eslintP.js",
+  "scripts": {
+    "prettier": "prettier --config .prettierrc 'src/**/*.js' --write",
+    "prettier-ts": "prettier .prettierrc  'src/**/*.js' --write"
+  },
+  "author": "Niemur Obi",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
